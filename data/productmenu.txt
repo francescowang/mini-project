@@ -1,0 +1,20 @@
+✵✵☆☆☆☆☆☆✪✪✪✪✪✪☆☆☆☆The Data Cafe☆☆☆☆✪✪✪✪✪✪☆☆☆☆☆☆✵✵
+
+█▀█ █▀█ █▀█ █▀▄ █░█ █▀▀ ▀█▀   █▀▄▀█ █▀▀ █▄░█ █░█
+█▀▀ █▀▄ █▄█ █▄▀ █▄█ █▄▄ ░█░   █░▀░█ ██▄ █░▀█ █▄█
+
+≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛                       
+✯                                               ✯       
+✯    Enter 0 to exit the app                    ✯
+✯                                               ✯
+✯    Enter 1 to view all products               ✯
+✯                                               ✯
+✯    Enter 2 to add a new product               ✯
+✯                                               ✯
+✯    Enter 3 to update a product                ✯
+✯                                               ✯
+✯    Enter 4 to delete a product                ✯
+✯                                               ✯
+✯    Enter 5 to return to main menu             ✯   
+✯                                               ✯   
+✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯
